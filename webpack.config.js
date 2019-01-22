@@ -1,5 +1,5 @@
 const glob = require('glob');
-let entry = __dirname + '/app/src/page.js';
+let entry = __dirname + '/src/js/script.js';
 let outputPath = __dirname + '/dist/';
 let devtool = 'source-map';;
 
