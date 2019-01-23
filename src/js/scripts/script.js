@@ -1,3 +1,3 @@
-import $ from 'jQuery';
+import $ from 'jquery';
 
 console.log('dentro y funcionando');
